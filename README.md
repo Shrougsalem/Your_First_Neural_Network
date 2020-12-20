@@ -12,4 +12,4 @@ https://www.youtube.com/watch?v=dOwEDeJp8yw
 * `pandas`, `NumPy`, `matplot.pyplot`
 
 ## Acknowledgement 
-Udacity's Deep Learning Nanodegree Program - Connect Nanodegree Program with MISK Foundation
+Udacity's Deep Learning - Connect Nanodegree Program with MISK Foundation
