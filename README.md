@@ -3,7 +3,7 @@ The first project of Udacity's Deep Learning Nano-degree program. In this projec
 
 ## Project Description
 In this project, you'll get to build a neural network from scratch to carry out a prediction problem on a real dataset! By building a neural network from the ground up, you'll have a much better understanding of gradient descent, backpropagation, and other concepts that are important to know before we move to higher-level tools such as PyTorch. You'll also get to see how to apply these networks to solve real prediction problems!<br/>
-https://www.youtube.com/watch?v=dOwEDeJp8yw
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/dOwEDeJp8yw/0.jpg)](http://www.youtube.com/watch?v=dOwEDeJp8yw "Project Introduction Video - Udacity")
 <br/>
 ## Data 
 * The data comes from the [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset).
